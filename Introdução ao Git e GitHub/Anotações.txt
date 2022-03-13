@@ -1,0 +1,9 @@
+Comandos básicos:
+Windows
+- cd -- Acessar pasta
+- dir -- Informações sobre onde está no diretorio
+- mkdir -- Cria pasta dentro do Git
+- rmdir -- Apagar de fator 
+- ls -- lista os items 
+- ctrl + l -- limpar 
+- cd .. -- voltar 
